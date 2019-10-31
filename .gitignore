@@ -1,0 +1,5 @@
+config.py
+downloaded_hdf
+output_tiff
+.vscode
+__pycache__
