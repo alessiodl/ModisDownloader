@@ -4,7 +4,7 @@ from lxml import html
 import config as cfg
 
 # Parametri
-data_folder = '2018.10.01'
+data_folder = '2019.10.01'
 
 # Costanti
 PRODUCTS = ['MOD13C2.006', 'MOD11C3.006']
