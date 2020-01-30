@@ -4,7 +4,7 @@ from lxml import html
 import config as cfg
 
 # Parametri
-data_folder = '2019.12.01'
+data_folder = '2018.01.01'
 
 # Costanti
 PRODUCTS = ['MOD13C2.006', 'MOD11C3.006']
@@ -50,11 +50,4 @@ for prod in PRODUCTS:
     hdf_url = data_url+"/"+hdf_name[0]
     # Scarica
     hdfDownload(hdf_url, hdf_name[0])
-
-
-    
-
-
-
-
    
