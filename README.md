@@ -1,5 +1,6 @@
 # ModisDownloader
-Collezione di script Python per lo scarico e l'estrazione in formato TIFF dei dati MODIS per i prodotti MOD11C3 e MOD13C2.
+# Descrizione
+Collezione di script Python per lo scarico e l'estrazione in formato TIFF dei dati MODIS relativi a temperatura (MOD11C3) e indici di vegetazione (MOD13C2).
 
 ## Utilizzo
   * Creare un file **config.py** in cui siano definite, in formato json, le credenziali di accesso al servizio e i limiti temporali dei dati MODIS da scaricare. Es:
