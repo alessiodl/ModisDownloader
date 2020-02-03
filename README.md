@@ -15,7 +15,7 @@ data = {
     'months': ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
 }
 ```
-  * Lanciare lo script *download_hdf.py*
-  * Lanciare lo script *extract_to_tiff.py*
+  * Lanciare lo script **download_hdf.py**
+  * Lanciare lo script **extract_to_tiff.py**
   
 <img src="screenshot.png" />
