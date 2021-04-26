@@ -1,8 +1,8 @@
 from osgeo import gdal
 import os
 
-os.environ['PROJ_LIB'] = r'C:\Users\a.dilorenzo\AppData\Local\Continuum\anaconda3\envs\geoenv\Lib\site-packages\osgeo\data\proj'
-os.environ['GDAL_DATA'] = r'C:\Users\a.dilorenzo\AppData\Local\Continuum\anaconda3\envs\geoenv\Library\share'
+os.environ['PROJ_LIB'] = r'C:\Users\a.dilorenzo\.conda\envs\geo\Lib\site-packages\pyproj\proj_dir\share\proj'
+os.environ['GDAL_DATA'] = r'C:\Users\a.dilorenzo\.conda\envs\geo\Library\share'
 
 basedir = r'downloaded_hdf'
 outdir  = r'output_tiff'
