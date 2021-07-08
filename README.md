@@ -17,6 +17,10 @@ data = {
     'year':'2015',
     'months': ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
 }
+
+server = {
+    'path': r'\\GISv10\C$\Users\aa.dilorenzo\Workspace\DATA\MODIS\IMAGES'
+}
 ```
   * Lanciare lo script **clean.py** se si desidera pulire le directory di lavoro prima di cominciare
   * Lanciare lo script **download_hdf.py** per scaricare gli HDF nella directory di download
