@@ -21,5 +21,6 @@ data = {
   * Lanciare lo script **clean.py** se si desidera pulire le directory di lavoro prima di cominciare
   * Lanciare lo script **download_hdf.py** per scaricare gli HDF nella directory di download
   * Lanciare lo script **extract_to_tiff.py** per estrarre i TIFF nella directory di estrazione
+  * Lanciare lo script **copy_on_server.py** per copiare i TIFF nella directory di destinazione sul server
   
 <img src="screenshot.png" />
