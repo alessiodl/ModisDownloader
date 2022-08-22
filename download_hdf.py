@@ -9,7 +9,7 @@ months = cfg.data['months']
 for month in months:
     data_folder = year+"."+month+".01"
     # Costanti
-    PRODUCTS = ['MOD13C2.006', 'MOD11C3.006']
+    PRODUCTS = ['MOD13C2.061', 'MOD11C3.061']
     URL = 'http://e4ftl01.cr.usgs.gov/MOLT'
     USERNAME = cfg.credentials['username']
     PASSWORD = cfg.credentials['password']
